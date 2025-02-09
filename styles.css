@@ -1,14 +1,13 @@
 .holder{
-	width:400px;
-	height:400px;
+	
 	
 	display:grid;
-	grid-template-columns:repeat(2,200px);
+	grid-template-columns:repeat(2,100px);
 	
 }
 .item{
 	border:1px solid black;
-	width:200px;
+	
 	
 }
 /* Your CSS Code here. */
